@@ -15,10 +15,8 @@
 #' \item{a}{The mean of the numbers in data set.}
 #' \item{b}{The median of the numbers in data set.}
 #' \item{c}{The range of the numbers in data set, represented as the last two numbers in the return, the minimum and maximum values.}
-#' @examples This function can be used for data sets that contain NA values or do not contain NA values.
-#' With NA Values Example:
+#' @examples
 #' mean_median_range(c(1, 2, 3, 4, 5, NA, 6), na.rm = TRUE)
-#' Without NA Values Example:
 #' mean_median_range(c(10, 20, 30, 40, 50))
 #' @export
  mean_median_range <- function(x, na.rm = FALSE){
