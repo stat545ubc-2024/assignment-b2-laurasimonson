@@ -1,12 +1,13 @@
 Package: MeanMedianRange
 Type: Package
 Title: Function to calculate mean, median, and range 
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Laura", "Simonson", , "lsimo55@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: The goal of the MeanMedianRange package is to provide documentation and create a downloadable R package for the mean_median_range function. This function calculates the mean, median and range values for any numerical dataset.
 License: MIT + file LICENSE
+Imports: stats
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

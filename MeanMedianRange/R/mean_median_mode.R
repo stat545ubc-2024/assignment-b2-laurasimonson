@@ -18,6 +18,7 @@
 #' @examples
 #' mean_median_range(c(1, 2, 3, 4, 5, NA, 6), na.rm = TRUE)
 #' mean_median_range(c(10, 20, 30, 40, 50))
+#' @importFrom stats median
 #' @export
  mean_median_range <- function(x, na.rm = FALSE){
 if(!is.numeric(x)){
