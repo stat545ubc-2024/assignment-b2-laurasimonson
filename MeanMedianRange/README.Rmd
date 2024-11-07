@@ -33,6 +33,7 @@ This R Package follows the standard structure of an R package
 -   README File: Provides an overview of the package and contains
     information on the different files and folders in the package, as
     well as installation instructions and examples.
+
 -   LICENSE Files: Contains the license documentation for this package
 
 ### Installation
