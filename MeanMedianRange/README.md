@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Mean, Median, Range
 
 The goal of the MeanMedianRange package is to provide documentation and
