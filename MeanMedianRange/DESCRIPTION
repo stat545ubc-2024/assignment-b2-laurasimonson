@@ -1,7 +1,7 @@
 Package: MeanMedianRange
 Type: Package
 Title: Function to calculate mean, median, and range 
-Version: 0.1.1
+Version: 1.0.0
 Authors@R: 
     person("Laura", "Simonson", , "lsimo55@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
